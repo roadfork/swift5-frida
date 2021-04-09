@@ -1,0 +1,9 @@
+{
+    "name": "swift5-frida",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@types/frida-gum": "latest",
+        "@types/node": "latest",
+        "frida-compile": "latest"
+    }
+}
