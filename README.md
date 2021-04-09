@@ -33,7 +33,7 @@ The various arguments supported by each functuon and the differences between the
 
 The following output shows the enumerated result of the [IOSSecuritySuite MachOParse class](https://github.com/securing/IOSSecuritySuite/blob/5014963254647c1d0adf2627fcae6cea3cd367ae/IOSSecuritySuite/IntegrityChecker.swift#L175) type from [this ipa](https://github.com/sushi2k/SwiftSecurity). Note that the fields array lists the `type` and `offset` for each field name and the methods array **_may_** contain an implementation address in addition to the kind flags:
 
-```json
+```javascript
 "MachOParse": {
     "descriptor": {
         "AccessFunction": "0x10245a80c",
